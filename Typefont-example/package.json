@@ -1,0 +1,11 @@
+{
+  "name": "typefont-example",
+  "version": "1.0.0",
+  "description": "**This is a modes example of Typefont library**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
